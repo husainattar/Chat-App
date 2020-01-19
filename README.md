@@ -5,7 +5,7 @@ Here users can send basic messages and their current location to the client join
 Here openfreesiteMap is used for geolocation API.
 
 
-#Method to Run the Application
+#Method-to-Run-the-Application
 Delete the node Module before cloning the application.
 and Simply save package.json and 
 Run command as npm install will install all the dependencies specified.
