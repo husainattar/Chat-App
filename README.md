@@ -8,7 +8,7 @@ A  Chat Application built using Socket.io in node js
 
 ### Building Block
 * Here complete application is built using Nodejs , ExpressJs and Socket.io
-* Check out the genral.js and UserClass.js to check out the message and users storing process and mechanism.
+* Check out the general.js and UserClass.js to check out the message and users storing process and mechanism.
 * Check out the server.js for connection logic.
 * Check out the views folder for UI and logic for sending geolocation.For more geolocation api check out [here](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 
