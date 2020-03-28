@@ -16,4 +16,4 @@ A  Chat Application built using Socket.io in node js
 * Delete the node Module before cloning the application.
 * Simply save package.json 
 * Run command as npm install will install all the dependencies specified.
-* After that run command as node server.js to run the application.
+* After that run command as node server.js in the terminal to run the application.
